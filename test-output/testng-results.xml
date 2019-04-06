@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19582" started-at="2019-04-01T20:39:55Z" finished-at="2019-04-01T20:40:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19582" started-at="2019-04-01T20:39:55Z" finished-at="2019-04-01T20:40:14Z">
+      <class name="scripts.Triphobo">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:scripts.Triphobo@6276ae34]" name="beforeMethod" is-config="true" duration-ms="19264" started-at="2019-04-02T02:09:55Z" finished-at="2019-04-02T02:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tripplan()[pri:0, instance:scripts.Triphobo@6276ae34]" name="tripplan" duration-ms="295" started-at="2019-04-02T02:10:14Z" finished-at="2019-04-02T02:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tripplan -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:scripts.Triphobo@6276ae34]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-02T02:10:14Z" finished-at="2019-04-02T02:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- scripts.Triphobo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
